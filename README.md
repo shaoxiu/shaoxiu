@@ -4,15 +4,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 397 Bytes Used in GitHub's Storage 
- > 
-> 🏆 111 Contributions in the Year 2024
+> 📦 398 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,15 +45,15 @@ Sunday                   301 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   16 hrs 39 mins      █████████████████████░░░░   82.60 % 
-TypeScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Rust                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Vue.js                   15 hrs 49 mins      ████████████████████░░░░░   81.88 % 
+TypeScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Rust                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 29 mins      ███████████████████████░░   91.67 % 
-VS Code                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+WebStorm                 17 hrs 37 mins      ███████████████████████░░   91.17 % 
+VS Code                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -74,5 +72,5 @@ Visual Basic .NET        1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 18:39:34 UTC
+ Last Updated on 23/09/2024 18:42:16 UTC
 <!--END_SECTION:waka-->
