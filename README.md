@@ -12,6 +12,8 @@
 
 > 📦 603 Bytes Used in GitHub's Storage 
  > 
+> 🏆 122 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -69,5 +71,5 @@ Visual Basic .NET        1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 18:41:03 UTC
+ Last Updated on 17/11/2024 18:41:41 UTC
 <!--END_SECTION:waka-->
