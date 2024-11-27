@@ -4,13 +4,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 611 Bytes Used in GitHub's Storage 
+> 📦 612 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,10 +45,13 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   16 mins             █████████████████░░░░░░░░   68.54 % 
+TypeScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+TSConfig                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -68,5 +71,5 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2024 18:44:10 UTC
+ Last Updated on 27/11/2024 18:44:48 UTC
 <!--END_SECTION:waka-->
