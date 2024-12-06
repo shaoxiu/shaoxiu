@@ -12,8 +12,6 @@
 
 > 📦 620 Bytes Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -71,5 +69,5 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2024 18:44:31 UTC
+ Last Updated on 06/12/2024 18:45:20 UTC
 <!--END_SECTION:waka-->
