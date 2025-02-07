@@ -10,7 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 662 Bytes Used in GitHub's Storage 
+> 📦 634 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,5 +70,5 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2025 18:42:11 UTC
+ Last Updated on 07/02/2025 18:42:37 UTC
 <!--END_SECTION:waka-->
