@@ -4,13 +4,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 712 Bytes Used in GitHub's Storage 
+> 📦 729 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,15 +47,15 @@ Sunday                   322 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   8 hrs 16 mins       ████████████████████░░░░░   81.22 % 
-TypeScript               1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Vue.js                   8 hrs 24 mins       ███████████████████░░░░░░   75.89 % 
+TypeScript               2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+TSConfig                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-WebStorm                 8 hrs 54 mins       ██████████████████████░░░   87.35 % 
-VS Code                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+WebStorm                 9 hrs 47 mins       ██████████████████████░░░   88.36 % 
+VS Code                  1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -73,5 +75,5 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2025 18:44:05 UTC
+ Last Updated on 26/02/2025 18:43:42 UTC
 <!--END_SECTION:waka-->
