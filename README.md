@@ -10,7 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 858 Bytes Used in GitHub's Storage 
+> 📦 860 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,12 +47,12 @@ Sunday                   332 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   28 mins             █████████████████████░░░░   83.49 % 
-TypeScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Vue.js                   28 mins             █████████████████████████   98.39 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 34 mins             █████████████████████████   100.00 % 
+WebStorm                 29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -70,5 +72,5 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:42:21 UTC
+ Last Updated on 14/04/2025 18:46:27 UTC
 <!--END_SECTION:waka-->
