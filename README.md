@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,10 +47,10 @@ Sunday                   332 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   28 mins             █████████████████████████   100.00 % 
+Vue.js                   44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -70,5 +70,5 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:44:39 UTC
+ Last Updated on 01/06/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
