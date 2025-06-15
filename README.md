@@ -10,7 +10,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 993 Bytes Used in GitHub's Storage 
+> 📦 995 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,5 +70,5 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 18:45:42 UTC
+ Last Updated on 15/06/2025 18:45:12 UTC
 <!--END_SECTION:waka-->
