@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,10 +45,13 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   37 mins             ██████████████████░░░░░░░   70.44 % 
+TypeScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 49 mins             ███████████████████████░░   92.39 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -68,5 +71,5 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 18:49:00 UTC
+ Last Updated on 10/08/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
