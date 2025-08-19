@@ -12,8 +12,6 @@
 
 > 📦 1.1 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -47,8 +45,8 @@ Sunday                   337 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   13 mins             █████████████████████████   99.99 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Vue.js                   13 mins             █████████████████████████   99.96 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
 WebStorm                 13 mins             █████████████████████████   100.00 % 
@@ -71,5 +69,5 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 18:51:57 UTC
+ Last Updated on 19/08/2025 18:47:18 UTC
 <!--END_SECTION:waka-->
