@@ -4,6 +4,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2011%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -18,6 +20,39 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+🌆 Daytime                1265 commits        ████████████░░░░░░░░░░░░░   46.37 % 
+🌃 Evening                782 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌙 Night                  562 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                569 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Thursday                 424 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Friday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Saturday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Sunday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Vue** 
 
 ```text
@@ -35,5 +70,5 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:45:03 UTC
+ Last Updated on 04/10/2025 18:43:15 UTC
 <!--END_SECTION:waka-->
