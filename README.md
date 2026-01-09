@@ -47,11 +47,10 @@ Sunday                   338 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 mins              ████████████████████████░   94.30 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -70,5 +69,5 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 18:52:11 UTC
+ Last Updated on 09/01/2026 18:54:16 UTC
 <!--END_SECTION:waka-->
