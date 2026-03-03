@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,9 +47,9 @@ Sunday                   340 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 36 mins        ████████████████░░░░░░░░░   62.16 % 
-TypeScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Vue.js                   1 hr 37 mins        ████████████████░░░░░░░░░   62.14 % 
+TypeScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
@@ -72,5 +72,5 @@ Python                   1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 19:10:20 UTC
+ Last Updated on 03/03/2026 19:14:34 UTC
 <!--END_SECTION:waka-->
