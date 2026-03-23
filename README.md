@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,14 +47,12 @@ Sunday                   241 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         █████████████████████░░░░   82.27 % 
-Vue.js                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Vue.js                   41 mins             ████████████████████████░   97.72 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████░░░░   82.53 % 
-WebStorm                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+WebStorm                 42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -73,5 +71,5 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 19:00:32 UTC
+ Last Updated on 23/03/2026 19:25:42 UTC
 <!--END_SECTION:waka-->
