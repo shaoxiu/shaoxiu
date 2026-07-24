@@ -18,39 +18,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-🌆 Daytime                1031 commits        ████████████░░░░░░░░░░░░░   46.95 % 
-🌃 Evening                584 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌙 Night                  456 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Tuesday                  286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Wednesday                493 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Thursday                 340 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Friday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Saturday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Vue** 
 
 ```text
@@ -67,5 +34,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:54:18 UTC
+ Last Updated on 24/07/2026 19:53:51 UTC
 <!--END_SECTION:waka-->
