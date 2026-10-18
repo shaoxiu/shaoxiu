@@ -49,11 +49,10 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      0 secs              █████████████████████████   98.31 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +77,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shaoxiu/shaoxiu/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:47:27 UTC
+ Last Updated on 18/10/2026 20:56:49 UTC
 <!--END_SECTION:waka-->
